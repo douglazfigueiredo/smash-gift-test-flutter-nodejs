@@ -1,0 +1,6 @@
+[submodule "smash-gift-teste-flutter"]
+	path = smash-gift-teste-flutter
+	url = https://github.com/douglazfigueiredo/smash-gift-teste-flutter
+[submodule "smash-gift-teste-nodejs"]
+	path = smash-gift-teste-nodejs
+	url = https://github.com/douglazfigueiredo/smash-gift-teste-nodejs
